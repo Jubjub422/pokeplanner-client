@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import { BrowserRouter as Router } from "react-router-dom"
-import { PokePlanner } from './Components/main';
+import { PokePlanner } from './Components/PokePlanner.js';
 
 
 
