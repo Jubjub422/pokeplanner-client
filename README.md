@@ -1,3 +1,13 @@
+
+# PokePlanner
+
+The PokePlanner is a personal project that I had the idea for and will complete in the coming future!
+The idea is that a user will be able to choose a team of pokemon from a specific generation and will be able to customize the 'mons down to their EV and IV values.
+The app will use the PokeApi and PokeBase to assist with all fetching and data gathering necessary.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
