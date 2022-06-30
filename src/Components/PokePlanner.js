@@ -1,6 +1,7 @@
 import React from "react"
 import { Route, Redirect } from "react-router-dom"
 import { ApplicationViews } from "./ApplicationViews.js"
+// Need to think about Navbar
 
 export const PokePlanner = () => (
     <>
@@ -8,7 +9,7 @@ export const PokePlanner = () => (
             if (localStorage.getItem("token")) {
                 return <>
                     <Route>
-                        <NavBar />
+                        {/* <NavBar /> */}
                         <ApplicationViews />
                     </Route>
                 </>
